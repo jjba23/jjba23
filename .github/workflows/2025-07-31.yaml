@@ -14,7 +14,7 @@ jobs:
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
       - run: echo "Throwing an error, but next step should still run!" && exit 1
       - name: List files in the repository
-        continue-on-error: "true"
+        continue-on-error: true
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
