@@ -1,10 +1,8 @@
                                                                                                                                                                                 
    <div align="center">                                                                                                                                                         
                                                                                                                                                                                 
-   # Hey, I'm Joe 👋                                                                                                                                                            
-                                                                                                                                                                                
-   **Josep Bigorra**                                                                                                                                                            
-                                                                                                                                                                                
+   # Hey, I'm Joe 👋 (**Josep Bigorra**)                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
    ### λ Backend engineer by day. Lisp wizard by night. Free Software believer always.                                                                                          
                                                                                                                                                                                 
    🌐 [jointhefreeworld.org](https://jointhefreeworld.org/) · 📍 Netherlands · 🏢 Royal Ahold Delhaize                                                                          
