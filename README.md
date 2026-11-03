@@ -24,7 +24,7 @@
    web crawler, linter, Wayland dock… even my GNU/Linux distro config. Yes, I've remapped Caps Lock to Control.    
    
    Beyond Emacs and the terminal: CrossFit 🏋️ · guitar 🎸 · and wondering if my garden can be managed with Lisp 🌿                                                                          
-                                                                                                                                                                                                                                                                                                                                                                
+   Some of the projects that keep me busy:                                                                                                                                                                                                                                                                                                                                                             
    | Project | What it is |                                                                                                                                                     
    |---|---|                                                                                                                                                                    
    | 🧙 [**heks-emacs**](https://github.com/jjba23/heks-emacs) | My modular, reproducible Emacs config |                                                                        
