@@ -3,7 +3,7 @@
                                                                                                                                                                                 
    # Hey, I'm Joe 👋 (**Josep Bigorra**)                                                                                                                                                            
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
-   ### λ Backend engineer by day. Lisp wizard by night. Free Software believer always.                                                                                          
+   ### λ Backend engineer by day. Lisp wizard by night.                                                                                 
                                                                                                                                                                                 
    🌐 [jointhefreeworld.org](https://jointhefreeworld.org/) · 📍 Netherlands · 🏢 Royal Ahold Delhaize                                                                          
                                                                                                                                                                                 
