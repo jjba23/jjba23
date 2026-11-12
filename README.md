@@ -28,6 +28,6 @@
    | [**byggsteg**](https://github.com/jjba23/byggsteg) | CI/CD orchestrator in Guile Scheme |                                                                               
    | [**wikimusic**](https://github.com/jjba23/wikimusic) | Musical encyclopaedia + CMS, powered by Lisp |                                                                   
    | [**sift**](https://github.com/jjba23/sift) | Formatter & linter for Lisp, Scheme and Elisp |                                                                            
-   | 📊 [**symbanta**](https://github.com/jjba23/symbanta) | Privacy-friendly, open-source web analytics (Kotlin) |                                                             
-   | 🐧 [**heks-linux**](https://github.com/jjba23/heks-linux) | Declarative, reproducible GNU/Linux in Lisp |                                                                  
+   | [**symbanta**](https://github.com/jjba23/symbanta) | Privacy-friendly, open-source web analytics (Kotlin) |                                                             
+   | [**heks-linux**](https://github.com/jjba23/heks-linux) | Declarative, reproducible GNU/Linux in Lisp |                                                                  
                                                                                                                                                                                                                                                                                                                                                                                                              
