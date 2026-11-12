@@ -1,17 +1,13 @@
                                                                                                                                                                                 
    <div align="center">                                                                                                                                                         
                                                                                                                                                                                 
-   # Hey, I'm Joe 👋 (**Josep Bigorra**)                                                                                                                                                            
+   # Hey, I'm Joe! (**Josep Bigorra**)                                                                                                                                                            
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
    ### λ Backend engineer by day. Lisp wizard by night.                                                                                 
                                                                                                                                                                                 
    🌐 [jointhefreeworld.org](https://jointhefreeworld.org/) · 📍 Netherlands · 🏢 Royal Ahold Delhaize                                                                          
                                                                                                                                                                                 
-   <img src="https://raw.githubusercontent.com/jjba23/ggg/trunk/dist/kotlin.svg" alt="Kotlin">                                                                                  
-   <img src="https://raw.githubusercontent.com/jjba23/ggg/trunk/dist/scheme-guile.svg" alt="Guile Scheme">                                                                      
-   <img src="https://raw.githubusercontent.com/jjba23/ggg/trunk/dist/gnu-emacs.svg" alt="GNU Emacs">                                                                            
-   <img src="https://raw.githubusercontent.com/jjba23/ggg/trunk/dist/nix-flake.svg" alt="Nix flake">                                                                            
-   <img src="https://raw.githubusercontent.com/jjba23/ggg/trunk/dist/gnu-guix.svg" alt="GNU Guix">                                                                                                                                                                                                                                                           
+                                                                                                                                                                                                                                                           
    </div>                                                                                                                                                                       
                                                                                                                                                                                 
    ---                                                                                                                                                                          
