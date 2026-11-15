@@ -19,11 +19,11 @@
    Beyond Emacs and the terminal: CrossFit · guitar · and wondering if my garden can be managed with Lisp                                                                          
    Some of the projects that keep me busy:                                                                                                                                                                                                                                                                                                                                                             
    | Project | What it is |                                                                                                                                                     
-   |---|---|                                                                                                                                                                    
+   |---|---|        
+   | [**maak**](https://github.com/jjba23/maak) | The infinitely extensible command runner, control plane and project automator à la Make (Guile Scheme - Lisp)  |
    | [**heks-emacs**](https://github.com/jjba23/heks-emacs) | My modular, reproducible Emacs config |                                                                        
    | [**byggsteg**](https://github.com/jjba23/byggsteg) | CI/CD orchestrator in Guile Scheme |                                                                               
-   | [**wikimusic**](https://github.com/jjba23/wikimusic) | Musical encyclopaedia + CMS, powered by Lisp |                                                                   
-   | [**sift**](https://github.com/jjba23/sift) | Formatter & linter for Lisp, Scheme and Elisp |                                                                            
+   | [**wikimusic**](https://github.com/jjba23/wikimusic) | Musical encyclopaedia + CMS, powered by Lisp |                                                                                                                                               
    | [**symbanta**](https://github.com/jjba23/symbanta) | Privacy-friendly, open-source web analytics (Kotlin) |                                                             
    | [**heks-linux**](https://github.com/jjba23/heks-linux) | Declarative, reproducible GNU/Linux in Lisp |                                                                  
                                                                                                                                                                                                                                                                                                                                                                                                              
