@@ -21,6 +21,7 @@
    | Project | What it is |                                                                                                                                                     
    |---|---|        
    | [**maak**](https://github.com/jjba23/maak) | The infinitely extensible command runner, control plane and project automator à la Make (Guile Scheme - Lisp)  |
+    | [**sift**](https://github.com/jjba23/sift) | Lisp, Scheme, Racket and Emacs Lisp formatter, linter and LSP (language server) |       
    | [**heks-emacs**](https://github.com/jjba23/heks-emacs) | My modular, reproducible Emacs config |                                                                        
    | [**byggsteg**](https://github.com/jjba23/byggsteg) | CI/CD orchestrator in Guile Scheme |                                                                               
    | [**wikimusic**](https://github.com/jjba23/wikimusic) | Musical encyclopaedia + CMS, powered by Lisp |                                                                                                                                               
